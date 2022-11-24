@@ -1,24 +1,24 @@
-#Project Name: My-First-Data-Analysis-Repo
+Project Name: My-First-Data-Analysis-Repo
 The repo will contain my 30 days assignments and works on analytics
 
 ------
-#Project Statement
+Project Statement
 
 
 
 
 -------
-#Data Sourcing
+Data Sourcing
 
 
 
 -----
-#Data Cleaning
+Data Cleaning
 
 
 
 -------
-#Findings and Recommendations
+Findings and Recommendations
 
 
 
